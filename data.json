@@ -4,13 +4,23 @@
     "category": "ăn uống",
     "description": "ăn với gái",
     "emotion": "HAPPY",
-    "date": "2026-10-13 11:44"
+    "date": "2026-10-13 11:44",
+    "transaction_type": "EXPENSE"
   },
   {
     "amount": 10000000,
     "category": "ăn uống",
     "description": "đi chơi",
     "emotion": "NEED",
-    "date": "2026-10-13 12:29"
+    "date": "2026-10-13 12:29",
+    "transaction_type": "EXPENSE"
+  },
+  {
+    "amount": 10000,
+    "category": "ăn",
+    "description": "(không có)",
+    "emotion": "NEED",
+    "date": "2026-10-13 13:08",
+    "transaction_type": "EXPENSE"
   }
 ]
